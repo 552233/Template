@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="yqp(552233) | 2016-08-30">
+	<title></title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<!--header-->
+	<!--#include virtual="include/header.shtml" -->
+	<!--/header-->
+	<div class="main">这是内容</div>
+	<!--footer-->
+	<!--#include virtual="include/footer.shtml" -->
+	<!--/footer-->
+	<script src="js/zepto.min.js"></script>
+	<script src="js/common.js"></script>
+</body>
+</html>
